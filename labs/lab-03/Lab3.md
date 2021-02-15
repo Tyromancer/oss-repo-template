@@ -52,4 +52,4 @@ Gource result for SMAB:
 
 Gource result for Smartrider:
 
-- ![](smart-gource.png)
+- ![](smartrider-gource.png)
