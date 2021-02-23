@@ -42,3 +42,5 @@ References:
 | [Pipeline](https://github.com/thepoly/pipeline)              | Yes             | [MIT](https://en.wikipedia.org/wiki/MIT_License)           |
 | [Shuttle Tracker](https://github.com/wtg/shuttletracker)     | Yes             | [GNU AGPL](https://www.gnu.org/licenses/agpl-3.0.en.html)  |
 | [Venue](https://github.com/rcos/venue2)                      | Yes             | [MIT](https://en.wikipedia.org/wiki/MIT_License)           |
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
