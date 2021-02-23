@@ -53,3 +53,5 @@ Gource result for SMAB:
 Gource result for Smartrider:
 
 - ![](smartrider-gource.png)
+
+The results from other memeber of my table could be found [here](https://github.com/ez-ant/oss-repo-template/blob/master/labs/lab-03/lab03.md)
