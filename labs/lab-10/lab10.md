@@ -1,3 +1,7 @@
+### Checkpoint 0:
+
+[Link to rcos blog](https://rcos.io/projects/tyromancer/faresplitter-backend/blog)
+
 ### Checkpoint 1:
 
 Screenshot of `mongod` when connected to the server:
